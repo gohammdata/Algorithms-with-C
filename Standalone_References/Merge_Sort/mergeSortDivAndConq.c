@@ -50,4 +50,18 @@ int main() {
     }
 
     return 0;
+
+    /*
+    Current Result on compile: 
+    Element[0] = 1
+    Element[1] = 2
+    Element[2] = 3
+    Element[3] = 4
+    Element[4] = 5
+    Element[5] = 6
+    Element[6] = 7
+    Element[7] = 8
+    Element[8] = 9
+    Element[9] = 0 - should be 10.
+    */
 }
