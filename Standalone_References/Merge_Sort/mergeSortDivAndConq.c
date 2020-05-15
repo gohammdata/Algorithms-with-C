@@ -42,6 +42,10 @@ int main() {
     which is registering as 0 making the last output 0 rather 
     than 10 (if 1 past it then goes to 10)
     */
+   /*
+   Without the print loop (slows it a bit) this algorithm runs at
+   <= 6nlog2n + 6n
+   */
     }
 
     //For loop to print the output array to see test if it is sorted
