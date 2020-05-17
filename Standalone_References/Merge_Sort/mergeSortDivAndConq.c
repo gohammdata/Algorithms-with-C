@@ -15,12 +15,12 @@ int main() {
     int input_array1[5] = {2, 3, 5, 7, 9};
     int input_array2[5] =  {1, 4, 6, 8, 10};
 
-    //Starting pointers for the for loop 
+    //Starting tracker for the for loop 
     int k = 0;
     int i = 0;
     int j = 0;
 
-    //Output pointer array
+    //Output tracker array
     int o = 0;
 
     //For loop to sort the output array
