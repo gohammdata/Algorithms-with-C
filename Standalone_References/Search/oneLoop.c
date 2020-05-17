@@ -1,6 +1,6 @@
 /*
 Finding if Array 'A' contains integer 't' via one loop
-Slow Big O example for comparison with a faster one.
+Linear Big O runtime of O(n).
 */
 
 /*Importing*/
